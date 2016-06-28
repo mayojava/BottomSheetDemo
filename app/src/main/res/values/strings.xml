@@ -14,6 +14,10 @@
     <string name="text_showing_sheet_content">Bottom sheet content</string>
     <string name="text_click_me">Click me</string>
 
+    <string name="text_more_contet_to_user">
+        We can show the user more content here. Add more UI widgets, texts etc.
+    </string>
+
     <string name="text_lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

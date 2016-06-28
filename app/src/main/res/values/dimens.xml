@@ -9,7 +9,11 @@
     <!-- text size -->
     <dimen name="text_size_medium">18sp</dimen>
     <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_big">20sp</dimen>
 
     <dimen name="z_bottom_sheet">8dp</dimen>
     <dimen name="z_button">6dp</dimen>
+
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
 </resources>
