@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.button_collapse_bottom_sheet) Button mCollapseBottomSheet;
     @BindView(R.id.button_hide_bottom_sheet) Button mHideBottomSheet;
     @BindView(R.id.button_show_bottom_sheet_dialog) Button mShowBottomSheetDialog;
-    @BindView(R.id.linear_layout_bottom_sheet) View mLayoutBottomSheet;
+    @BindView(R.id.layout_bottom_sheet) View mLayoutBottomSheet;
     @BindView(R.id.text_view_sheet_title) TextView mTextViewBottomSheet;
 
     private BottomSheetBehavior mBottomSheetBehavior;

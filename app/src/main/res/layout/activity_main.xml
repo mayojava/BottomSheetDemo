@@ -52,7 +52,7 @@
     </RelativeLayout>
 
     <RelativeLayout
-        android:id="@+id/linear_layout_bottom_sheet"
+        android:id="@+id/layout_bottom_sheet"
         android:layout_width="match_parent"
         android:layout_height="220dp"
         app:behavior_peekHeight="80dp"
